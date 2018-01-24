@@ -21,6 +21,70 @@ var friendsArray = [
             4,
             1
           ]
+    },
+    {
+    "name":"Kiko",
+    "photo":"https://b.fssta.com/uploads/application/nfl/players/459190.vresize.350.425.medium.34.png",
+    "scores":[
+            2,
+            3,
+            5,
+            3,
+            2,
+            5,
+            1,
+            5,
+            3,
+            1
+          ]
+    },
+    {
+    "name":"Leila",
+    "photo":"https://lifestylehub.blob.core.windows.net/images/photos/272/3800-abscbnlife_absleilaalcasid_04.JPG",
+    "scores":[
+            5,
+            5,
+            1,
+            5,
+            5,
+            2,
+            3,
+            2,
+            4,
+            4
+          ]
+    },    
+    {
+    "name":"Staniel",
+    "photo":"https://csis-prod.s3.amazonaws.com/s3fs-public/styles/csis_portrait/public/contributor/5stanley.jpg?7tUhkWm2tKG7Lap683nXc2PKWQPwdgPZ&itok=_b5qHW53",
+    "scores":[
+            2,
+            5,
+            5,
+            3,
+            5,
+            5,
+            2,
+            2,
+            5,
+            2
+          ]
+    },
+    {
+    "name":"Phyllis",
+    "photo":"http://soapcentral.com/yr/images/rect/tognoni_gina.jpg",
+    "scores":[
+            2,
+            3,
+            1,
+            5,
+            3,
+            1,
+            5,
+            5,
+            5,
+            5
+          ]
     }
   ];
   
